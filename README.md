@@ -1,6 +1,6 @@
 using tesseract and chatgpt3.5 to transfer jpg file of a dummy medical report found here: https://de.wikipedia.org/wiki/Arztbrief#/media/Datei:Arztbrief.jpg
 
-![Arztbrief]([https://de.wikipedia.org/wiki/Arztbrief#/media/Datei:Arztbrief.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Arztbrief.jpg/1920px-Arztbrief.jpg))
+[<img src="dummy_data\\Bsp_Arztbrief.jpg">](https://de.wikipedia.org/wiki/Arztbrief#/media/Datei:Arztbrief.jpg)
 
 please refer to the code used.
 
